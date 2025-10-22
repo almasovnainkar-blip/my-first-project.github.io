@@ -44,7 +44,6 @@
   <p>Бұл менің жеке бетім. Мұнда мен өзім туралы ақпарат бөлісемін.</p>
 
   <div class="info">
-    <p><span class="label">Аты-жөнім:</span> Алмасқызы Іңкәр</p>
     <p><span class="label">Электронды пошта:</span> 
       <a href="mailto:almasovnainkar@gmail.com">almasovnainkar@gmail.com</a>
     </p>
